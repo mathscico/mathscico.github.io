@@ -1,2 +1,0 @@
-# mathscico.github.io
-website
