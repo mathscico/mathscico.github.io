@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mathsci.co</title>
+    <description>mathsci.co delivers and presents common math and science homework problems for you to prepare for your exams.</description>
+    <link>http://mathsci.co/</link>
+    <atom:link href="http://mathsci.co/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 24 Jun 2015 21:40:44 -0500</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2015 21:40:44 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Chemistry I - Unit 1 Exam</title>
+        <description>&lt;p&gt;The pressure on a gas at −68◦C is doubled, but its volume is held constant. What will the final temperature be in degrees Celsius?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;151.0  &lt;/li&gt;
+  &lt;li&gt;123.0  &lt;/li&gt;
+  &lt;li&gt;117.0  &lt;/li&gt;
+  &lt;li&gt;161.0  &lt;/li&gt;
+  &lt;li&gt;137.0  &lt;/li&gt;
+  &lt;li&gt;185.0  &lt;/li&gt;
+  &lt;li&gt;187.0  &lt;/li&gt;
+  &lt;li&gt;127.0  &lt;/li&gt;
+  &lt;li&gt;119.0  &lt;/li&gt;
+  &lt;li&gt;177.0&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Correct answer: 137◦C.  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The same number of grams of NH3 and O2 are placed in separate bulbs of equal volume and temperature under conditions when both gases behave ideally. Which statement is true?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The pressure in the O2 bulb is greater than the pressure in the NH3 bulb.&lt;/li&gt;
+  &lt;li&gt;Both bulbs contain the same number of moles of gas.&lt;/li&gt;
+  &lt;li&gt;The bulb containing O2 contains more molecules of gas.&lt;/li&gt;
+  &lt;li&gt;The pressures in the two bulbs are the same.&lt;/li&gt;
+  &lt;li&gt;The pressure in the NH3 bulb is greater than the pressure in the O2 bulb. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The molecular weight of NH3 is less than that of O2, so in equal masses there are more moles of NH3 than of O2. At the same volume and temperature, the larger number of moles of NH3 would exert a higher pressure.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Balance the equation&lt;br /&gt;
+C2H6 + O2 → CO2 + H2O&lt;br /&gt;
+using the smallest possible integers. The sum
+of the coefficients is&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;19 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;4&lt;/li&gt;
+  &lt;li&gt;9&lt;/li&gt;
+  &lt;li&gt;10&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+A balanced equation must have the same number of each kind of atom on both sides of the equation. We find the number of each kind of atom using equation coefficients and composition stoichiometry. For example, we find there are 4 C atoms on the reactant side:&lt;br /&gt;
+? C atoms = 2 C2H6 × 2C / 1 C2H6 = 4C.&lt;br /&gt;
+The balanced equation is&lt;br /&gt;
+2 C2H6 + 7 O2 → 4 CO2 + 6 H2O&lt;br /&gt;
+and has 4C, 12H, and 14O atoms on each side.&lt;br /&gt;
+? sum coefficients = 2 + 7 + 4 + 6 = 19  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In the chemical reaction&lt;br /&gt;
+2 H2O + energy → 2 H2 + O2  &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;twice as much O2 as H2 will be produced.&lt;/li&gt;
+  &lt;li&gt;there is no way to know how much of each will be produced.&lt;/li&gt;
+  &lt;li&gt;equal amounts of H2 and O2 will be produced.&lt;/li&gt;
+  &lt;li&gt;twice as much H2 as O2 will be produced. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Consider the following reaction:&lt;br /&gt;
+CaCN2 + 3 H2O → CaCO3 + 2 NH3&lt;br /&gt;
+105.0 g CaCN2 and 78.0 g H2O are reacted. Assuming 100% efficiency, which reactant is in excess and how much is leftover? The molar mass of CaCN2 is 80.11 g/mol. The molar mass of CaCO3 is 100.09 g/mol.  &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;CaCN2; 7.20 g left over&lt;/li&gt;
+  &lt;li&gt;H2O; 10.7 g left over&lt;/li&gt;
+  &lt;li&gt;H2O; 7.20 g left over &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;H2O; 70.8 g left over&lt;/li&gt;
+  &lt;li&gt;CaCN2; 70.8 g left over&lt;/li&gt;
+  &lt;li&gt;CaCN2; 10.7 g left over&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+CaCN2 + 3 H2O → CaCO3 + 2 NH3&lt;br /&gt;
+According to the stoichiometry 1 mol of CaCN2 reacts with 3 moles of H2O. First we calculate the moles of CaCN2 and of H2O as shown below.  &lt;/p&gt;
+
+&lt;p&gt;? mol CaCN2 = 105.0 g NaCN2 × 1 mol CaCN2 / 80.11 g CaCN2 = 1.31 mol CaCN2&lt;/p&gt;
+
+&lt;p&gt;? molH2O = 78.0 g H2O × 1 mol H20 / 18.0152 g H2O = 4.33 mol H2O&lt;/p&gt;
+
+&lt;p&gt;Since the stoichiometric ratio CaCN2 to H2O is 1 to 3, to react completely 1.31 mol CaCN2 we will require to use:&lt;/p&gt;
+
+&lt;p&gt;3 × 1.31 = 3.93 mol H2O&lt;/p&gt;
+
+&lt;p&gt;We calculated that we have 4.33 mol H2O. Therefore water is in excess:&lt;/p&gt;
+
+&lt;p&gt;4.33 − 3.93 = 0.40 mol H2O&lt;/p&gt;
+
+&lt;p&gt;? excess H2O = 0.40 mol H2O × 18.0152 g H2O / 1 mol H2O = 7.20 g H2O&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Two gases are contained in gas bulbs connected by a valve. Gas A is present in a 36 L bulb at a pressure of 273 torr. Gas B exerts a pressure of 716 torr in a 84 L bulb. What is the partial pressure of gas B after they equilibrate once the valve has been opened?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;728.0&lt;/li&gt;
+  &lt;li&gt;402.0&lt;/li&gt;
+  &lt;li&gt;566.0&lt;/li&gt;
+  &lt;li&gt;642.0&lt;/li&gt;
+  &lt;li&gt;558.0&lt;/li&gt;
+  &lt;li&gt;578.0&lt;/li&gt;
+  &lt;li&gt;550.0&lt;/li&gt;
+  &lt;li&gt;476.0&lt;/li&gt;
+  &lt;li&gt;847.0&lt;/li&gt;
+  &lt;li&gt;501.0&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Correct answer: 501 torr.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+VA =36L&lt;br /&gt;
+VB =84L&lt;br /&gt;
+Vtotal =VA +VB =120L&lt;br /&gt;
+PA =273torr&lt;br /&gt;
+PB =716tor  &lt;/p&gt;
+
+&lt;p&gt;PBVB =PtVt  &lt;/p&gt;
+
+&lt;p&gt;Pt = PB VB / Vt  = (716 torr) (84 L) / 120 L = 501 torr  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In an improved version of the gas law, &lt;em&gt;V&lt;/em&gt; is replaced by (&lt;em&gt;V − n b&lt;/em&gt;). The two quantities &lt;em&gt;n&lt;/em&gt; and &lt;em&gt;b&lt;/em&gt; in this equation represent, respectively, the&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;number of molecules; excluded molecular volume.&lt;/li&gt;
+  &lt;li&gt;number of moles; excluded molecular volume. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;number of moles; molecular radius.&lt;/li&gt;
+  &lt;li&gt;number of electrons; molecular radius.&lt;/li&gt;
+  &lt;li&gt;number of moles; the container size.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;n&lt;/em&gt; represents moles (as it does in &lt;em&gt;P V = nRT&lt;/em&gt;).&lt;br /&gt;
+&lt;em&gt;b&lt;/em&gt; is the correction factor for volume because molecules really do take up space.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Ludwig Boltzmann performed a simple, but powerful experiment to gather evidence concerning the velocity distribution of a sample of gas particles. His experiment revealed that the velocities of gases:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Are distributed in a characteristic manner across a range of temperatures that depends on the molar mass of the gas, but not the temperature of the gas.&lt;/li&gt;
+  &lt;li&gt;Are distributed in a characteristic manner across a range of temperatures that depends on the temperature of the gas, not the molar mass of the gas.&lt;/li&gt;
+  &lt;li&gt;Are distributed in a characteristic manner across a range of temperatures that depends on the molar mass of the gas and the temper- ature of the gas. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Are distributed in the same characteristic manner for all gases, regardless of the tem- perature or molar mass, as long as the gas is behaving ideally.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Consider two balloons filled with gas and ar- ranged so that P, V , T are the same in both. The number of molecules in each balloon&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;could be different if the filling gases are different.&lt;/li&gt;
+  &lt;li&gt;would be the same only if the filling gases are the same.&lt;/li&gt;
+  &lt;li&gt;must be different.&lt;/li&gt;
+  &lt;li&gt;must be the same. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+P1 = P2&lt;br /&gt;
+V1 = V2&lt;br /&gt;
+T1 = T2&lt;br /&gt;
+PV = nRT, so R = PV / nT
+Thus&lt;br /&gt;
+P2 V2 / n2 T2 = P1 V1 / n1 T1&lt;br /&gt;
+n1 / n2 = P1V1T2 / P2V2T1 = 1&lt;br /&gt;
+n1 = n2  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A steel tank containing helium is cooled to 15◦C. If you could look into the tank and see the gas molecules, what would you observe?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The molecules would move to the center of the tank because their velocities would be lower, thus giving them less pressure.&lt;/li&gt;
+  &lt;li&gt;The gas molecules would become uniformly distributed near the entire wall of the tank because the molecules would try to escape the container due to their kinetic energies.&lt;/li&gt;
+  &lt;li&gt;The molecules would sink to the bottom of the tank because of the loss of pressure.&lt;/li&gt;
+  &lt;li&gt;The gas molecules would still be uniformly distributed around the tank because gases expand to fill up the whole volume due to their constant molecular motion. correct&lt;/li&gt;
+  &lt;li&gt;The gas molecules would have higher kinetic energies and lower velocities, thus creating no net change.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The average kinetic molecular energy would decrease, but since it is still in gas phase, the molecules would still expand uniformly to fill the tank.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A gas sample occupies 3.59 L at 8.0◦C. What is the pressure given that there are 1.63 mol of gas in the sample?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;10.6448&lt;/li&gt;
+  &lt;li&gt;6.05624&lt;/li&gt;
+  &lt;li&gt;6.77834&lt;/li&gt;
+  &lt;li&gt;4.10406&lt;/li&gt;
+  &lt;li&gt;4.42826&lt;/li&gt;
+  &lt;li&gt;3.72675&lt;/li&gt;
+  &lt;li&gt;8.83326&lt;/li&gt;
+  &lt;li&gt;5.30303&lt;/li&gt;
+  &lt;li&gt;4.9661&lt;/li&gt;
+  &lt;li&gt;10.4747&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Correct answer: 10.4747 atm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;
+n = 1.63 mol&lt;br /&gt;
+V = 3.59L&lt;br /&gt;
+T = 8.0◦C + 273 = 281K&lt;br /&gt;
+P = ?  &lt;/p&gt;
+
+&lt;p&gt;P = nRT/V&lt;br /&gt;
+￼￼=￼(1.63 mol) 􏰀(0.0821 L·atm/mol·K) 􏰁(281 K) / (3.59 L)&lt;br /&gt;
+  = 10.4747 atm  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The root mean square speed of nitrogen molecules in air at 20◦C is 511 m/s in a certain container. If the gas is allowed to expand to twice its original volume, the root mean square velocity of nitrogen molecules drops to 325 m/s. Calculate the temperature after the gas has expanded.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;−261◦C&lt;/li&gt;
+  &lt;li&gt;−347◦C&lt;/li&gt;
+  &lt;li&gt;347◦C&lt;/li&gt;
+  &lt;li&gt;154◦C&lt;/li&gt;
+  &lt;li&gt;261◦C&lt;/li&gt;
+  &lt;li&gt;45.1◦C&lt;/li&gt;
+  &lt;li&gt;−154◦C &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;−45.1◦C&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If 250 mL of a gas at STP weighs 2 g, what is the molar mass of the gas?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;28.0 g · mol−1&lt;/li&gt;
+  &lt;li&gt;8.00 g · mol−1&lt;/li&gt;
+  &lt;li&gt;56.0 g · mol−1&lt;/li&gt;
+  &lt;li&gt;44.8 g · mol−1&lt;/li&gt;
+  &lt;li&gt;179 g · mol−1 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Real gases behave most nearly like ideal gases at&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;low temperatures and low pressures.&lt;/li&gt;
+  &lt;li&gt;high temperatures and low pressures. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;high pressures and low molar masses.&lt;/li&gt;
+  &lt;li&gt;high temperatures and high pressures.&lt;/li&gt;
+  &lt;li&gt;low temperatures and high pressures.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+At high temperatures the gas molecules are moving more rapidly and the effects of the attractive forces are less significant. At low pressures the molecules are on average much further apart and the effects of the attractive forces are less significant because there are fewer ‘close encounters’.  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Calculate the number of carbon atoms in 4.56 grams of ethanol (CH3CH2OH).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;5.97 × 10^22&lt;/li&gt;
+  &lt;li&gt;5.49 × 10^24&lt;/li&gt;
+  &lt;li&gt;1.19 × 10^23 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;2.53 × 10^26&lt;/li&gt;
+  &lt;li&gt;1.79 × 10^23&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+m_CH3CH2OH = 4.56 g
+Each CH3CH2OH molecule contains two carbon atoms. There are Avogadro’s number of ethanol molecules in one mole of ethanol. We need the molecular mass of ethanol so we can convert grams of ethanol to moles ethanol: Molecular mass of CH3CH2OH&lt;br /&gt;
+= 2(12.01 g/mol) + 6(1.01 g/mol) + 1(16.00 g/mol)&lt;br /&gt;
+= 46.08 g/mol&lt;br /&gt;
+We can use this molecular mass to convert g ethanol to mol ethanol:&lt;br /&gt;
+? mol ethanol = 4.56 g CH3CH2OH × 1 mol CH3CH2OH / 46.08 g CH3CH2OH&lt;br /&gt;
+= 0.09896 mol CH3CH2OH&lt;br /&gt;
+We can now use Avogadro’s number and the ratio of C atoms to CH3CH2OH molecules to find the number of carbon atoms:&lt;br /&gt;
+? atoms C = 0.09896 mol CH3CH2OH&lt;br /&gt;
+	× 6.022 × 10^23 molec CH3CH2OH / 1 mol CH3CH2OH&lt;br /&gt;
+	× 2 atoms C / 1 molec CH3CH2OH&lt;br /&gt;
+	= 1.192 × 1023 atoms C  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For the reaction&lt;br /&gt;
+2 NH3 + CH3OH → products ,&lt;br /&gt;
+how much CH3OH is needed to react with 93.5 g of NH3?  &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;46.8 mol&lt;/li&gt;
+  &lt;li&gt;2.75 mol &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;5.50 mol&lt;/li&gt;
+  &lt;li&gt;11.3 mol&lt;/li&gt;
+  &lt;li&gt;88.1 mol&lt;/li&gt;
+  &lt;li&gt;1.31 mol&lt;/li&gt;
+  &lt;li&gt;3.32 mol&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+mNH3 = 93.5g&lt;br /&gt;
+? mol CH3OH = 93.5 g NH3 × 1 mol NH3 / 17 g NH3 × 1 mol CH3OH / 2 mol NH3&lt;br /&gt;
+= 2.75 mol CH3OH  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If the average speed of a carbon dioxide molecule is 410 m · s−1 at 25◦C, what is the average speed of a molecule of methane at the same temperature?  &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;679 m · s−1 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;410 m · s−1&lt;/li&gt;
+  &lt;li&gt;247 m · s−1&lt;/li&gt;
+  &lt;li&gt;1130 m · s−1&lt;/li&gt;
+  &lt;li&gt;1000 m · s−1&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+From kinetic molecular theory, the temperature is directly proportional to mean KE.
+KEmean= 1/2(MW)(average molecular speed)^2&lt;br /&gt;
+and knowing T is constant,&lt;br /&gt;
+…&lt;br /&gt;
+v_CO2 = 679.08 m/s&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Isoamyl acetate (C7H14O2) is a chemical compound that has a strong odor similar to bananas. At room temperature, the rms velocity of a isoamyl acetate molecule in the gas phase is approximately 240 m s^−1.  &lt;/p&gt;
+
+&lt;p&gt;About how long will it take an isoamyl acetate molecule to diffuse 24 m across a room filled with air at SATP?  &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;About 0.1 second, since it is traveling 240 m s^−1.&lt;/li&gt;
+  &lt;li&gt;The molecule will never diffuse across the room because it is too large.&lt;/li&gt;
+  &lt;li&gt;Faster than 0.1 second, since 240 m s^−1 is the rms velocity which is not the same as the average velocity.&lt;/li&gt;
+  &lt;li&gt;Much longer than 0.1 second, because the molecule will have many collisions with other gas molecules. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Because the isoamyl acetate will undergo many (too many too count) collisions it will take much much much longer than 0.1 second to diffuse 24 m. The answer could only be 0.1 seconds if the molecule had no collisions with other gas molecules. It is true that the rms velocity is not the average. It is also true that there is a distribution of velocities and some molecules will be moving faster. However, they will also undergo many many collisions causing them to take much more than 0.1 s to move 24 m.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Use van der Waals’ equation to calculate the pressure exerted by 1.25 mol of ammonia at −0.1◦C in a 1.54 L container. The van der Waals’ constants for ammonia are a = 4.00 L2·atm/mol2 and b = 0.0400 L/mol. (The values for a and b have been rounded off to simplify the arithmetic.)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;8.08102 atm&lt;/li&gt;
+  &lt;li&gt;32.3241 atm&lt;/li&gt;
+  &lt;li&gt;21.5494 atm&lt;/li&gt;
+  &lt;li&gt;16.162 atm &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;12.1215 atm&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A mixture of three gases, A, B, and C, is at a total pressure of 6.2 atm. The partial pressure of gas A is 1.63 atm; that of gas B is 3.78 atm. What is the partial pressure of gas C?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;1.43&lt;/li&gt;
+  &lt;li&gt;2.24&lt;/li&gt;
+  &lt;li&gt;2.09&lt;/li&gt;
+  &lt;li&gt;1.4&lt;/li&gt;
+  &lt;li&gt;1.91&lt;/li&gt;
+  &lt;li&gt;0.79&lt;/li&gt;
+  &lt;li&gt;1.97&lt;/li&gt;
+  &lt;li&gt;0.85&lt;/li&gt;
+  &lt;li&gt;2.59&lt;/li&gt;
+  &lt;li&gt;1.17&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Correct answer: 0.79 atm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+PT =6.2atm&lt;br /&gt;
+PA =1.63atm&lt;br /&gt;
+PB =3.78atm 
+PC =?  &lt;/p&gt;
+
+&lt;p&gt;PT = PA + PB + PC&lt;br /&gt;
+PC =PT −(PA+PB)&lt;br /&gt;
+= 6.2 atm − (1.63 atm + 3.78 atm)&lt;br /&gt;
+= 0.79 atm  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Tue, 23 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://mathsci.co/chemistry/unit-1-exam/</link>
+        <guid isPermaLink="true">http://mathsci.co/chemistry/unit-1-exam/</guid>
+        
+        
+        <category>chemistry</category>
+        
+      </item>
+    
+  </channel>
+</rss>
