@@ -5,9 +5,1055 @@
     <description>mathsci.co delivers and presents common math and science homework problems for you to prepare for your exams.</description>
     <link>http://mathsci.co/</link>
     <atom:link href="http://mathsci.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Jun 2015 21:40:44 -0500</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2015 21:40:44 -0500</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2015 21:27:59 -0500</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2015 21:27:59 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Chemistry I - Unit 4 Exam</title>
+        <description>&lt;p&gt;If the change in internal energy for a given process is zero, which of the following must be true?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;q = -w &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;w = 0&lt;/li&gt;
+  &lt;li&gt;∆E = ∆H&lt;/li&gt;
+  &lt;li&gt;q = 0&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+∆E = q + w = 0&lt;br /&gt;
+q = -w&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Carbon monoxide reacts with oxygen to form carbon dioxide by the following reaction:&lt;/p&gt;
+
+&lt;p&gt;2 CO(g) + O2(g) → 2 CO2(g)&lt;/p&gt;
+
+&lt;p&gt;∆H for this reaction is −135.28 kcal.&lt;br /&gt;
+If 811.7 kcal is released, how many moles of CO must have reacted?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;12.0 mol &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;16.3 mol&lt;/li&gt;
+  &lt;li&gt;6.00 mol&lt;/li&gt;
+  &lt;li&gt;270.5 mol&lt;/li&gt;
+  &lt;li&gt;1.35 mol&lt;/li&gt;
+  &lt;li&gt;40.5 mol&lt;/li&gt;
+  &lt;li&gt;5.41 mol&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;At constant temperature and pressure, how is ∆Suniv related to ∆Gsys?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;∆Gsys = ∆Suniv&lt;/li&gt;
+  &lt;li&gt;∆Gsys = −T ∆Suniv &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;∆Gsys = −∆Suniv&lt;/li&gt;
+  &lt;li&gt;∆Gsys = T ∆Suniv&lt;/li&gt;
+  &lt;li&gt;∆Gsys = − ∆Suniv / T&lt;/li&gt;
+  &lt;li&gt;∆Gsys = ∆Suniv / T&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A 22.9 g sample of metal X requires 136 calories of energy to heat it from 10.0◦C to 81.0◦C. Calculate the specific heat of metal X.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;0.2615&lt;/li&gt;
+  &lt;li&gt;0.21&lt;/li&gt;
+  &lt;li&gt;0.2548&lt;/li&gt;
+  &lt;li&gt;0.2038&lt;/li&gt;
+  &lt;li&gt;0.3562&lt;/li&gt;
+  &lt;li&gt;0.3902&lt;/li&gt;
+  &lt;li&gt;0.3081&lt;/li&gt;
+  &lt;li&gt;0.2187&lt;/li&gt;
+  &lt;li&gt;0.35&lt;/li&gt;
+  &lt;li&gt;0.2733&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Correct answer: 0.35 J/g ·◦ C.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Chlorine monofluoride (ClF) will react with carbon monoxide (CO) to give carbonyl chlorofluoride (COClF):&lt;/p&gt;
+
+&lt;p&gt;ClF + CO −→ COClF&lt;/p&gt;
+
+&lt;p&gt;Use bond energies (provided elsewhere) to estimate the change in enthalpy (∆H) for this reaction.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;-298 kJ/mol &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;-571 kJ/mol&lt;/li&gt;
+  &lt;li&gt;-444 kJ/mol&lt;/li&gt;
+  &lt;li&gt;-376 kJ/mol&lt;/li&gt;
+  &lt;li&gt;-193 kJ/mol&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the change in entropy (∆Svap) for the vaporization of ethanol (∆Hvap = 38.6 kJ · mol−1) at its standard boiling temperature (78.4 ◦C)?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;−110 J · mol−1 · K−1&lt;/li&gt;
+  &lt;li&gt;−492 J · mol−1 · K−1&lt;/li&gt;
+  &lt;li&gt;492J·mol−1 ·K−1&lt;/li&gt;
+  &lt;li&gt;110 J · mol−1 · K−1 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Given that ∆fH◦Fe2O3(s) = −826 kJ mol−1 what would you predict for the spontaneity of the following reaction&lt;/p&gt;
+
+&lt;p&gt;2Fe2O3(s) → 4Fe(s) + 3O2(g)&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;there is no way to predict the spontaneity of this reaction&lt;/li&gt;
+  &lt;li&gt;it would be spontaneous only at high temperatures &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;it would never be spontaneous&lt;/li&gt;
+  &lt;li&gt;it would be spontaneous at all temperatures&lt;/li&gt;
+  &lt;li&gt;it would be spontaneous only at low temperatures&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The reaction as written is the reverse of twice the formation of Fe2O3. As such this reaction is extremely endothermic (∆H » 0). However, the entropy change for this reaction should be positive as it generates three moles of gas. The enthalpy changes cause an increase in the free energy, but the entropy change will cause the free energy to decrease. At high temperatures the entropy will dominate and the free energy change will be negative.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following is always true for a spontaneous process at constant temperature?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;∆S = q / T&lt;/li&gt;
+  &lt;li&gt;∆S &amp;gt; 0&lt;/li&gt;
+  &lt;li&gt;∆Ssystem + ∆Ssurroundings &amp;gt; 0 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;∆S &amp;lt; q / T&lt;/li&gt;
+  &lt;li&gt;∆Ssystem + ∆Ssurroundings = q / T&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The entropy of a system or its surroundings may increase or decrease. The Second Law of Thermodynamics states that in spontaneous changes, the universe tends toward a state of greater disorder; that is, entropy increases (∆S &amp;gt; 0).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Rank the following systems by entropy, from least to greatest:
+a) 1 mol of pure ice
+b) 1 mol of water with 1 mol of salt dissolved in it.
+c) 1 mol of pure water&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;c &amp;lt; b &amp;lt; a&lt;/li&gt;
+  &lt;li&gt;a &amp;lt; b &amp;lt; c&lt;/li&gt;
+  &lt;li&gt;c &amp;lt; a &amp;lt; b&lt;/li&gt;
+  &lt;li&gt;b &amp;lt; c &amp;lt; a&lt;/li&gt;
+  &lt;li&gt;b &amp;lt; a &amp;lt; c&lt;/li&gt;
+  &lt;li&gt;a &amp;lt; c &amp;lt; b &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Entropy increases as systems go through endothermic phase transitions and when there is more matter or more dispersed matter present.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Consider the reaction&lt;/p&gt;
+
+&lt;p&gt;Ni(s) + 4 CO(g) → Ni(CO)4(g)&lt;/p&gt;
+
+&lt;p&gt;Assuming the gases are ideal, calculate the work done on the system at a constant pressure of 1 atm at 75◦C for the conversion of 1.00 mole of Ni to Ni(CO)4.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;2.89 × 103 J&lt;/li&gt;
+  &lt;li&gt;5.79 × 103 J&lt;/li&gt;
+  &lt;li&gt;1.80 × 103 J&lt;/li&gt;
+  &lt;li&gt;1.87 × 103 J&lt;/li&gt;
+  &lt;li&gt;1.16 × 104 J&lt;/li&gt;
+  &lt;li&gt;8.68 × 103 J &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Calculate the standard enthalpy of combustion (∆cH) of t-butyl acetate, C6H12O2(l).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;-125 kJ/mol&lt;/li&gt;
+  &lt;li&gt;-4080 kJ/mol&lt;/li&gt;
+  &lt;li&gt;-4635 kJ/mol&lt;/li&gt;
+  &lt;li&gt;-3525 kJ/mol &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;-2970 kJ/mol&lt;/li&gt;
+  &lt;li&gt;-4371 kJ/mol&lt;/li&gt;
+  &lt;li&gt;-3261 kJ/mol&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The balanced equation is:&lt;br /&gt;
+C6H12O2(l) + 8O2(g) → 6CO2(g) + 6H2O(l)&lt;br /&gt;
+∆cH = 6(−394) + 6(−286) − (−555)&lt;br /&gt;
+∆cH = −2364 + −1716 + 555&lt;br /&gt;
+∆cH = −3525&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Calculate the entropy change for the system when 40 g of ethanol are heated from 25◦C to 40◦C given that the heat capacity for ethanol is 2.44 J g−1 K−1.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;4.8 J K−1 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;-45.9 J K−1&lt;/li&gt;
+  &lt;li&gt;0.12 J K−1&lt;/li&gt;
+  &lt;li&gt;45.9 J K−1&lt;/li&gt;
+  &lt;li&gt;-2.3 J K−1&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Consider the reaction&lt;/p&gt;
+
+&lt;p&gt;2 SO2(g) + O2(g) → 2 SO3(g)&lt;/p&gt;
+
+&lt;p&gt;Which statement is true for this reaction?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;∆S &amp;lt; 0 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Sm◦ = 0 for O2(g)&lt;/li&gt;
+  &lt;li&gt;∆S &amp;gt; 0&lt;/li&gt;
+  &lt;li&gt;∆S = 0&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+For the reaction 3 mol gas → 2 mol gas. The fewer the moles of gas, the lower the disorder, so ∆S is negative.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Calculate the standard reaction enthalpy for the reaction&lt;/p&gt;
+
+&lt;p&gt;NO2(g) → NO(g) + O(g)&lt;/p&gt;
+
+&lt;p&gt;Given:&lt;br /&gt;
+O2(g) → 2 O(g)&lt;br /&gt;
+∆H◦ = +498.4 kJ/mol&lt;br /&gt;
+NO(g) + O3(g) → NO2(g) + O2(g)&lt;br /&gt;
+∆H◦ = −200 kJ/mol&lt;br /&gt;
+3O2(g) → 2 O3(g) .&lt;br /&gt;
+∆H◦ = +285.4 kJ/mol  &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;+306 kJ/mol &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;+555 kJ/mol&lt;/li&gt;
+  &lt;li&gt;+192 kJ/mol&lt;/li&gt;
+  &lt;li&gt;+355 kJ/mol&lt;/li&gt;
+  &lt;li&gt;+93.5 kJ/mol&lt;/li&gt;
+  &lt;li&gt;+413 kJ/mol&lt;/li&gt;
+  &lt;li&gt;+592 kJ/mol&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is ∆Suniv for a reaction conducted at 100◦C and for which ∆S is 170 J · mol−1 · K−1 and ∆H is 43.2 kJ · mol−1.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;−262 J · mol−1 · K−1&lt;/li&gt;
+  &lt;li&gt;285.8 J · mol−1 · K−1&lt;/li&gt;
+  &lt;li&gt;602 J · mol−1 ·K−1&lt;/li&gt;
+  &lt;li&gt;54.2 J · mol−1 · K−1 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+∆Suniv = ∆Ssys + ∆Ssurr&lt;br /&gt;
+= 170 J · mol−1 · K−1&lt;br /&gt;
+− 43200 J · mol−1 373 K&lt;br /&gt;
+= 54.2 J · mol−1 · K−1&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following reactions as written corresponds to a standard formation reaction?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;SO2(g) + 1/2 O2(g) → SO3(g)&lt;/li&gt;
+  &lt;li&gt;2H (g) + O2(g) → H2O2 (l)&lt;/li&gt;
+  &lt;li&gt;Na(s) + 1/2 Cl2(g) → NaCl(s) &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;2 H2(g) + O2(g) → 2 H2O(l)&lt;/li&gt;
+  &lt;li&gt;CO2(s) → CO2(g)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+All of the reactants in a formation reaction must be ELEMENTS in their thermochemical standard state. AND, to match table values, only 1 MOLE of product can be formed because standard table values are in kJ/mol. Only the NaCl fits this definition. The H2O reaction unfortunately is forming 2 moles of water instead of one.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The enthalpy of fusion of methanol (CH3OH) is 3.16 kJ/mol. How much heat would be absorbed or released upon freezing 25.6 grams of methanol?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;0.253 kJ absorbed&lt;/li&gt;
+  &lt;li&gt;3.95 kJ absorbed&lt;/li&gt;
+  &lt;li&gt;2.52 kJ absorbed&lt;/li&gt;
+  &lt;li&gt;0.253 kJ released&lt;/li&gt;
+  &lt;li&gt;3.95 kJ released&lt;/li&gt;
+  &lt;li&gt;2.52 kJ released &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+MW CH3OH = 32.042g&lt;br /&gt;
+∆H(fusion) = −∆H(freezing)&lt;br /&gt;
+q = 25.6 g × (1 mol / 32.042 g mol) × (−3.16 kJ / mol)&lt;br /&gt;
+= −2.525 kJ&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A sample of 2 grams of compound Y is burned completely in a bomb calorimeter which contains 2500 g of water. The temperature rises from 25.529◦C to 25.991◦C. What is ∆Urxn for the combustion of compound Y? The hardware component of the calorimeter has a heat capacity of 3.78 kJ/◦C. The specific heat of water is 4.184 J/g·◦C, and the MW of Y is 129 g/mol.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;-311.8&lt;/li&gt;
+  &lt;li&gt;-572.3&lt;/li&gt;
+  &lt;li&gt;-503.5&lt;/li&gt;
+  &lt;li&gt;-235.9&lt;/li&gt;
+  &lt;li&gt;-424.3&lt;/li&gt;
+  &lt;li&gt;-213.5&lt;/li&gt;
+  &lt;li&gt;-165.2&lt;/li&gt;
+  &lt;li&gt;-552.3&lt;/li&gt;
+  &lt;li&gt;-269.5&lt;/li&gt;
+  &lt;li&gt;-335.2&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Correct answer: −424.3 kJ/mol of Y.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Sodium is a metal that reacts violently with water. Chlorine is a toxic, choking gas. So it’s a really good thing that when you put salt on your fries (chips) that it doesnt suddenly turn into sodium metal and chlorine gas. Why is this the case?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The standard enthalpy of formation of sodium chloride is negative.&lt;/li&gt;
+  &lt;li&gt;The standard Gibbs free energy of formation of sodium chloride is negative. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;The standard entropy change for the formation of sodium chloride is negative.&lt;/li&gt;
+  &lt;li&gt;Salt dissolves in the water in your food. 5. Salt has a really high melting point.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The standard Gibbs free energy of formation of sodium chloride is negative so the process is spontaneous. Thus ’unforming’ sodium chloride is nonspontaneous, so sodium chloride is stable.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Thu, 25 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://mathsci.co/chemistry/unit-4-exam/</link>
+        <guid isPermaLink="true">http://mathsci.co/chemistry/unit-4-exam/</guid>
+        
+        
+        <category>chemistry</category>
+        
+      </item>
+    
+      <item>
+        <title>Chemistry I - Unit 3 Exam</title>
+        <description>&lt;p&gt;Select the FALSE statement about compounds with octahedral geometries.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The central atom in compounds with octahedral geometries always obey the octet rule. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Compounds with octahedral geometries do not have eight atoms bonded to the central atom.&lt;/li&gt;
+  &lt;li&gt;Octahedral electronic geometries may have four atoms bonded to the central atom.&lt;/li&gt;
+  &lt;li&gt;If a compound has a square planar molecular geometry, it corresponds to an octahedral electronic geometry.&lt;/li&gt;
+  &lt;li&gt;Angles in compounds with octahedral molecular geometries are typically 90 and 180 degrees.&lt;/li&gt;
+  &lt;li&gt;Octahedral molecular geometries always require sp3d2 hybridizations.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Compounds with octahedral geometries have expanded valence shells. These are exceptions to the octet rule.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;SO2−4 is more/less polar than SO2−3 because&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;more; the tetrahedral geometry increases the polarity of S – O bonds&lt;/li&gt;
+  &lt;li&gt;more; it has four polar S – O bonds rather than three polar S – O bonds.&lt;/li&gt;
+  &lt;li&gt;less; the four polar S – O bonds in SO2−4 are symmetrical and cancel the dipole moments. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;less; it is a resonance structure.&lt;/li&gt;
+  &lt;li&gt;more; the four polar S – O bonds in SO2−4 are arranged non-symmetrically leaving
+a net dipole moment.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt; &lt;br /&gt;
+SO2−4 has no lone pairs on the central S atom. It has tetrahedral molecular geometry. Each bond angle is 109.5◦. The dipole moments cancel and the molecule is non-polar.&lt;br /&gt;
+SO2−3 has one lone pair on the central S atom. It has pyramidal molecular geometry. The bond angles are not equal so the dipole moments cannot cancel. This molecule is polar.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For which of the following is the type of solid INCORRECTLY given?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;C6H6, molecular solid&lt;/li&gt;
+  &lt;li&gt;KF, ionic solid&lt;/li&gt;
+  &lt;li&gt;H2O, molecular solid&lt;/li&gt;
+  &lt;li&gt;Ni, metallic solid&lt;/li&gt;
+  &lt;li&gt;CsI, covalent solid &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+CsI is an ionic solid. An ionic bond is a bond between a cation 􏰀Cs+1􏰁 and an anion
+􏰀I−1􏰁.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A substance has a melting point of 1200 K. It conducts electricity while melting but not in the solid. This substance would be classified as&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;a metallic solid.&lt;/li&gt;
+  &lt;li&gt;an ionic solid. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;a covalent network solid.&lt;/li&gt;
+  &lt;li&gt;a hydrogen bonded solid.&lt;/li&gt;
+  &lt;li&gt;a molecular solid.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Ionic solids are held together by electrostatic attractions between cations and anions. In a melted phase, the ions can move and therefore can carry current.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Consider the molecule CF4.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It has four non-polar bonds and is a non-polar molecule.&lt;/li&gt;
+  &lt;li&gt;It has four polar bonds and is a polar molecule.&lt;/li&gt;
+  &lt;li&gt;It has four anti-bonds and is a polar bear.&lt;/li&gt;
+  &lt;li&gt;It has four non-polar bonds and is a polar molecule.&lt;/li&gt;
+  &lt;li&gt;It has four polar bonds and is a non-polar molecule. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Fluorine has a very high electronegativity when compared to carbon. A covalent bond between two molecules with such different electronegativities is polar. The molecular geometry of the molecule CF4 is tetrahedral, and all the bonds have an equal dipole moment since they are all between the same atoms (C and F). The net dipole of the molecule is zero since all of the individual dipoles cancel each other out. A molecule with no net dipole moment is non-polar.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If a molecule of AB2 has 2 lone pairs of electrons on A, what would you expect the B-A-B angle to be closest to?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;62.5 degrees&lt;/li&gt;
+  &lt;li&gt;109.5 degrees &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;90 degrees&lt;/li&gt;
+  &lt;li&gt;120 degrees&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+This molecule fits the general formula AB2U2. These structures, which have 4 regions of high electron density, have tetrahedral electronic geometries, and they have bond angles close to 109.5 degrees.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What structural feature makes unsaturated fats less rigid than saturated fats?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Unsaturated fats have weaker covalent bonds along the chain; weaker covalent bonds result in reduced rigidity.&lt;/li&gt;
+  &lt;li&gt;Unsaturated fats have a bend that reduces the strength and number of dispersion forces between molecules. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;The statement is untrue; saturated fats are more rigid because their C-C bond lengths are shorter and stronger than for unsaturated fats.&lt;/li&gt;
+  &lt;li&gt;The statement is untrue; saturated fats are more rigid because of their higher molecular weight.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Unsaturated fats have at least one double bond. Along the fatty acid chain, there is a bend at each double bond. (Imagine an elbow.) Packing of such fats is less dense at the molecular level, and fewer dispersion forces are possible. This results in a less rigid substance.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The bonding in metals like tin and lead is best described as (localized, delocalized) whereas the bonding in insulators or semiconductors (such as diamond or silicon) is best described as (localized, delocalized).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;delocalized; localized &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;localized; localized&lt;/li&gt;
+  &lt;li&gt;delocalized; delocalized&lt;/li&gt;
+  &lt;li&gt;localized; delocalized&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Metallic solids are solids composed of metal atoms that are held together by metallic bonds. These bonds are like huge molecular orbitals that span across the whole solid. Electrons are not just held between a few of atoms in a sigma bond. Rather, there is a sea of electrons everywhere. In covalent, molecular, and ionic solids, electrons are localized in bonds between atoms.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Use VSEPR theory to predict the shape of the molecule SeF6.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;linear&lt;/li&gt;
+  &lt;li&gt;None of these&lt;/li&gt;
+  &lt;li&gt;bent or angular&lt;/li&gt;
+  &lt;li&gt;trigonal-pyramidal&lt;/li&gt;
+  &lt;li&gt;tetrahedral&lt;/li&gt;
+  &lt;li&gt;trigonal-bipyramidal&lt;/li&gt;
+  &lt;li&gt;octahedral &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;trigonal-planar&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following are important contributions that MO theory makes to chemistry.&lt;/p&gt;
+
+&lt;p&gt;I. The ability to use MO theory with a computer to calculate the minimum energy geometry of a molecule.&lt;br /&gt;
+II. The ability to predict the energy at which a molecule will absorb light.&lt;br /&gt;
+III. The ability to predict whether or not a molecule should be paramagnetic or diamagnetic.  &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;only I&lt;/li&gt;
+  &lt;li&gt;I and II&lt;/li&gt;
+  &lt;li&gt;I, II, and III &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;only II&lt;/li&gt;
+  &lt;li&gt;none of them&lt;/li&gt;
+  &lt;li&gt;II and III&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The MO theory is a powerful theory that, based on Quantum mechanical calculations, and with the help of a powerful computer, can very quickly calculate the energies of electrons in a small or large molecule as the relative positions of the atoms of the molecule are moved relative to each other. This iterative calculation results in the lowest energy arrangement of all the atoms and all the electrons of the atoms in the molecule, thus leading to the prediction of the most likely arrangement of the atoms and electrons. Therefore, the shape, magnetism (pair or unpaired electrons residing in orbitals), and the energy difference of the HOMO and LUMO can be calculated.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following combinations of hybridization and molecular geometry is not possible?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;sp3; tetrahedral&lt;/li&gt;
+  &lt;li&gt;sp2; angular&lt;/li&gt;
+  &lt;li&gt;sp3d; linear&lt;/li&gt;
+  &lt;li&gt;sp3d2; octahedral&lt;/li&gt;
+  &lt;li&gt;sp3d2; angular &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;sp3; angular&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Angular molecular geometries can only be formed from sp2 and sp3 hybridizations.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A molecule with tetrahedral geometry must be nonpolar.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;False &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;True&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which molecular geometries can stem from tetrahedral electronic geometry?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;trigonal pyramidal, seesaw&lt;/li&gt;
+  &lt;li&gt;tetrahedral, trigonal bipyramidal, linear, angular, seesaw&lt;/li&gt;
+  &lt;li&gt;tetrahedral, trigonal pyramidal, angular &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;only tetrahedral&lt;/li&gt;
+  &lt;li&gt;tetrahedral, T-shaped, linear&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Tetrahedral, trigonal pyramidal and angular are three molecular geometries that can stem from tetrahedral electronic geometry.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following molecules is incorrectly matched with molecular geometry?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;NH3 : tetrahedral &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;H2O : angular&lt;/li&gt;
+  &lt;li&gt;AsF5 : trigonal bipyramidal&lt;/li&gt;
+  &lt;li&gt;TeF6 : octahedral&lt;/li&gt;
+  &lt;li&gt;SiF4 : tetrahedral&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The &lt;em&gt;electronic&lt;/em&gt; geometry of NH3 is tetrahedral, but its &lt;em&gt;molecular&lt;/em&gt; geometry is trigonal pyramidal.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which represents a false statement?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;All molecules with four regions of electron density have sp3 hybridization.&lt;/li&gt;
+  &lt;li&gt;The sp2 hybridization corresponds to trigonal planar electronic arrangements.&lt;/li&gt;
+  &lt;li&gt;All square planar molecules have octahedral electronic arrangements.&lt;/li&gt;
+  &lt;li&gt;All angular molecules are sp2 hybridized. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Angular molecules can be sp2 or sp3 hybridized.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What are all of the intermolecular forces that are responsible for the existence of ice?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;dipole-dipole and London forces&lt;/li&gt;
+  &lt;li&gt;dipole-dipole and ion-ion&lt;/li&gt;
+  &lt;li&gt;hydrogen bonding and dipole-dipole&lt;/li&gt;
+  &lt;li&gt;London forces&lt;/li&gt;
+  &lt;li&gt;dipole-dipole, London forces, and hydrogen bonding &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Ice is solid H2O. This molecule exhibits dispersion. Because it is polar it also exhibits dipole-dipole interactions. Finally because of the H bonded to the electronegative O atom it also exhibits hydrogen bonding; this polar bond can orient and interact with the lone pair of an O atom on another H2O molecule.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following molecules would be expected to have the lowest boiling point?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;C2H6&lt;/li&gt;
+  &lt;li&gt;C12H26&lt;/li&gt;
+  &lt;li&gt;C8H18&lt;/li&gt;
+  &lt;li&gt;CH4 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;C16H34&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+These molecules are all very similar in that they are made up only of hydrogen and carbon. They are all covalently bonded, nonpolar, and cannot form hydrogen bonds. Therefore the only intermolecular force that attracts these molecules to each other are dispersion forces. Dispersion forces are generally stronger for molecules that have more electrons or are larger, so you would predict that the smallest molecule in this group (CH4) would have the weakest intermolecular forces and thus would have the lowest boiling point.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A molecule with a central atom and two bonded atoms is bent with a bond angle of 117◦. Assuming the central atom satisfies the octet rule, how many lone pairs does it have?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;3 lone pairs&lt;/li&gt;
+  &lt;li&gt;1 lone pair &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;2 lone pairs&lt;/li&gt;
+  &lt;li&gt;0 lone pairs&lt;/li&gt;
+  &lt;li&gt;4 lone pairs&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Only a molecule with two singly bonded atoms and one lone pair (a pair of nonbonding electrons) would satisfy all of the constraints laid out in the problem, most notably the bond angle which implies trigonal planar geometry and thus 3 regions of high electron density (RHED). Since two of these are atoms, the third must be a lone pair. Example: NOH.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following has the highest vapor pressure?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;CH3CH2OH&lt;/li&gt;
+  &lt;li&gt;CH3CH2COOH&lt;/li&gt;
+  &lt;li&gt;CH3CH2OCH2CH3 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;CH3OH&lt;/li&gt;
+  &lt;li&gt;H2O&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The compound with the highest vapor pressure will be the one that most readily evaporates (the one with the weakest intermolecular forces). All of the choices exhibit London (van der Waals) forces and are also polar, so they can exhibit dipole-dipole interactions. However, unlike the other choices, CH3CH2OCH2CH3 does not have O – H bonds and so cannot exhibit hydrogen bonding. Although CH3CH2OCH2CH3 is the largest molecule, the higher London forces are not strong enough to counteract the lack of hydrogen bonding so overall it has the weakest intermolecular forces.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Thu, 25 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://mathsci.co/chemistry/unit-3-exam/</link>
+        <guid isPermaLink="true">http://mathsci.co/chemistry/unit-3-exam/</guid>
+        
+        
+        <category>chemistry</category>
+        
+      </item>
+    
+      <item>
+        <title>Chemistry I - Unit 2 Exam</title>
+        <description>&lt;p&gt;Which of the following statements is true regarding electromagnetic radiation?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Electromagnetic radiation with a wavelength of 400 nm has a frequency that is lower than that with a wavelength of 600 nm.&lt;/li&gt;
+  &lt;li&gt;Electromagnetic radiation with a wavelength of 400 nm travels faster than that with a wavelength of 600 nm.&lt;/li&gt;
+  &lt;li&gt;Electromagnetic radiation with a wavelength of 600 nm travels faster than that with a wavelength of 400 nm.&lt;/li&gt;
+  &lt;li&gt;Electromagnetic radiation with a wavelength of 600 nm has a frequency that is lower than that with a wavelength of 400 nm. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;The frequency of electromagnetic radiation determines how fast it travels.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+v=fλ, so λ=1. Higher wavelengths correspond to lower frequencies, and vice versa.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the frequency of a 500 nm photon?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;9.0 × 10^−17 Hz&lt;/li&gt;
+  &lt;li&gt;15 Hz&lt;/li&gt;
+  &lt;li&gt;4.0 × 10^−7 Hz&lt;/li&gt;
+  &lt;li&gt;5.0 × 10^−6 Hz&lt;/li&gt;
+  &lt;li&gt;1.5 × 10^−16 Hz&lt;/li&gt;
+  &lt;li&gt;6.0 × 10^14 Hz &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+frequency = speed of light / wavelength = 3e8 / 500e-9 = 6e14&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which color in the rainbow has the shortest wavelength?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;green&lt;/li&gt;
+  &lt;li&gt;blue &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;orange&lt;/li&gt;
+  &lt;li&gt;red&lt;/li&gt;
+  &lt;li&gt;yellow&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Ordered by wavelengths,
+blue &amp;lt; green &amp;lt; yellow &amp;lt; orange &amp;lt; red&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;An orbital with n = 4 and l = 2 would be described as&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;4s.&lt;/li&gt;
+  &lt;li&gt;2p.&lt;/li&gt;
+  &lt;li&gt;4d. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;2s.&lt;/li&gt;
+  &lt;li&gt;4p.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+l = 2 refers to the d orbital, so the orbital is 4d.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Rank the following species from smallest to largest atomic radius: K, Mg, Rb, Ca.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Mg &amp;lt; Rb &amp;lt; K &amp;lt; Ca&lt;/li&gt;
+  &lt;li&gt;Mg &amp;lt; Ca &amp;lt; Rb &amp;lt; K&lt;/li&gt;
+  &lt;li&gt;Mg &amp;lt; K &amp;lt; Ca &amp;lt; Rb&lt;/li&gt;
+  &lt;li&gt;Mg &amp;lt; Ca &amp;lt; K &amp;lt; Rb &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Rb &amp;lt; K &amp;lt; Ca &amp;lt; Mg&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Atomic radii increase down and to the left.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;When two H atoms are brought together from large distances they can make H2. As the bond begins to form, the force between the atoms becomes more (attractive, repulsive) and the potential energy (increases, stays the same, decreases).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;attractive; increases&lt;/li&gt;
+  &lt;li&gt;attractive; decreases &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;attractive; stays the same&lt;/li&gt;
+  &lt;li&gt;repulsive; increases&lt;/li&gt;
+  &lt;li&gt;repulsive; decreases&lt;/li&gt;
+  &lt;li&gt;repulsive; stays the same&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In a pure covalent bond, electrons are&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;uncharged.&lt;/li&gt;
+  &lt;li&gt;shared equally. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;transferred.&lt;/li&gt;
+  &lt;li&gt;shared unequally.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In which compound is the bond the LEAST polar?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;HCl&lt;/li&gt;
+  &lt;li&gt;HBr&lt;/li&gt;
+  &lt;li&gt;HF&lt;/li&gt;
+  &lt;li&gt;HI &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The number of single bonds, double bonds, triple bonds, and unshared (lone) pairs on the central atom in the sulfite ion (SO 2− 3) is&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;3,0,0,1 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;2,1,0,0&lt;/li&gt;
+  &lt;li&gt;1,1,0,2&lt;/li&gt;
+  &lt;li&gt;1,2,0,1&lt;/li&gt;
+  &lt;li&gt;2,1,0,1&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+To draw the dot structure for SO2−3 we must first calculate the number of valence electrons available from the atoms:&lt;/p&gt;
+
+&lt;p&gt;A = 6 × 1 (S atom) + 6 × 3 (O atoms) + 2 (from −2 charge)&lt;br /&gt;
+= 26 e−  &lt;/p&gt;
+
+&lt;p&gt;We choose the least electronegative element as the central atom (sulfur in this case) and place the other atoms symmetrically around it.&lt;br /&gt;
+The correct dot structure for the molecule should show a complete octet (8 electrons) around each atom and a total of 26 valence electrons for the entire structure.&lt;br /&gt;
+(If using the S = N − A rule to determine the dot structure, N = (8×1)+(8×3) = 32 e− and S = 32−26 = 6 e−. This would indicate 3 bonds and correspond to the structure shown above.)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The carbon and oxygen in carbon monoxide (CO) are joined by what type of bond or bonds?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;two double bonds&lt;/li&gt;
+  &lt;li&gt;one triple bond &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;one single bond&lt;/li&gt;
+  &lt;li&gt;one double bond&lt;/li&gt;
+  &lt;li&gt;four single bonds&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The total number of valence electrons is&lt;br /&gt;
+C 1×4e−= 4e−&lt;br /&gt;
+O 1×6e−= 6e−&lt;br /&gt;
+10 e−&lt;br /&gt;
+and the Lewis dot structure is :C≣O:&lt;br /&gt;
+The 3 lines represent a triple bond between the C and O.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Draw the Lewis electron dot structure for SO3. What is the total number of lone pairs of electrons on the three oxygen atoms?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;5&lt;/li&gt;
+  &lt;li&gt;3&lt;/li&gt;
+  &lt;li&gt;7&lt;/li&gt;
+  &lt;li&gt;8 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;9&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+To draw the dot structure for SO3 we must first calculate the number of valence electrons available from the atoms:&lt;/p&gt;
+
+&lt;p&gt;A = 6 × 1(S atom) + 6 × 3(O atoms) = 24 e−&lt;/p&gt;
+
+&lt;p&gt;We choose the least electronegative element as the central atom (sulfur in this case) and place the other atoms symmetrically around it.&lt;br /&gt;
+The correct dot structure for the molecule should show a complete octet (8 electrons) around each atom and a total of 24 valence electrons for the entire structure.&lt;br /&gt;
+(If using the S = N − A rule to determine thedotstructure,N =8×1+8×3=32e− and S = 32−24 = 8 e−. This would indicate 4 bonds and correspond to the structure shown above.)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which one of the following compounds does NOT obey the octet rule?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;CH4&lt;/li&gt;
+  &lt;li&gt;BF3 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;NaCl&lt;/li&gt;
+  &lt;li&gt;H2O&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;How many lone pairs are on the central atom of AsF5?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;4&lt;/li&gt;
+  &lt;li&gt;0 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;1&lt;/li&gt;
+  &lt;li&gt;2&lt;/li&gt;
+  &lt;li&gt;3&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The chemical formula for potassium sulfate is&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;K3(SO4)2&lt;/li&gt;
+  &lt;li&gt;KSO4&lt;/li&gt;
+  &lt;li&gt;K(SO4)2&lt;/li&gt;
+  &lt;li&gt;K2SO4 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+K+ and SO2−4 forms K2SO4:&lt;br /&gt;
+2(+1) + 1(−2) = 0&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For an ionic compound, the lattice energy is the energy associated with&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;generating the ionic compound from the neutral elements&lt;/li&gt;
+  &lt;li&gt;dissolving the compound in water to form aqueous ions.&lt;/li&gt;
+  &lt;li&gt;moving a pair of ions to infinite separa- tion.&lt;/li&gt;
+  &lt;li&gt;breaking up the solid crystal into gas phase ions. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The lattice energy is the energy associated with taking the ions from the solid crystalline structure and separating them into ions in the gas phase. The energy associated with simply separating two isolated ions is the Coulomb energy. The energy for dissolving the compound to for aqueous ions is the enthalpy of solution. And the energy for forming the ionic compound from neutral elements is the enthalpy of formation.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Consider the first three energy levels for an electron in a helium ion.&lt;br /&gt;
+1st energy level : −6.41 × 10−19 J&lt;br /&gt;
+2nd energy level : −1.60 × 10−19 J&lt;br /&gt;
+3rd energy level : −0.72 × 10−19 J&lt;br /&gt;
+A 413 nm photon interacts with the ion. What might happen as a result of this in- teraction?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;An electron could be excited from the 2nd to 3rd energy level.&lt;/li&gt;
+  &lt;li&gt;An electron could be excited from the 1st to 3rd energy level.&lt;/li&gt;
+  &lt;li&gt;None of the transitions listed would occur.&lt;/li&gt;
+  &lt;li&gt;An electron could be excited from the 1st to 2nd energy level. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following is NOT correctly matched name to formula&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;diselenium oxide SeO2 &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;phosphorus pentachloride PCl5 3. sulfur trioxide SO3&lt;/li&gt;
+  &lt;li&gt;carbon tetrachloride CCl4&lt;/li&gt;
+  &lt;li&gt;dinitrogen pentoxide N2O5&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+SeO2 is selenium dioxide.&lt;br /&gt;
+The prefix lable ”di” is misplaced in the answer indicating a ratio of 2:1 Se to O.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The oxygen/oxygen bond in O2 is stronger than in HOOH because&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;the oxygen/oxygen bond in O2 is more polar than in HOOH.&lt;/li&gt;
+  &lt;li&gt;O2 has a oxygen/oxygen double bond and HOOH has a oxygen/oxygen single bond. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;O2 has only one structure, while HOOH has a resonance structure that weakens the bond.&lt;/li&gt;
+  &lt;li&gt;O2 has an oxygen/oxgyen triple bond where HOOH has an oxygen/oxygen double bond.&lt;/li&gt;
+  &lt;li&gt;O2 has a resonance structure that pro- vides extra stability compared to the HOOH which has only one contributing structure.&lt;/li&gt;
+  &lt;li&gt;the oxygen/oxygen bond in O2 is less polar than in HOOH.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The Lewis dot structure of O2 shows it has a oxygen/oxygen double bond. HOOH only has a oxygen/oxygen single bond.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following species is isoelectronic with S2− ?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Br−&lt;/li&gt;
+  &lt;li&gt;As3−&lt;/li&gt;
+  &lt;li&gt;Rb+&lt;/li&gt;
+  &lt;li&gt;Mg2+&lt;/li&gt;
+  &lt;li&gt;Ar &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+Isoelectronic means ‘has the same number of electrons as’. Locate each element in the Periodic Table. The atomic number will give the number of protons, which equals the number of electrons for the neutral atom; for an ion, you will have to add or subtract from this value.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Let X be a hypothetical element.&lt;br /&gt;
+Which of the following would be largest?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;X2+&lt;/li&gt;
+  &lt;li&gt;X−&lt;/li&gt;
+  &lt;li&gt;X2− &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;X&lt;/li&gt;
+  &lt;li&gt;X+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+X2− would be largest as it has 2 more electrons than protons, and the protons here would be at the greatest disadvantage when trying to draw the electrons towards the nucleus.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Cobalt-60 (60 27 Co) is an artificial radioisotope that is produced in a nuclear reactor for use as a gamma-ray source in the treatment of certain types of cancer. If the wavelength of the gamma radiation from a cobalt-60 source is 1.00 × 10−3 nm, calculate the energy of a photon of this radiation.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;2.0 × 10−13 J &lt;strong&gt;correct&lt;/strong&gt; &lt;/li&gt;
+  &lt;li&gt;2.0 × 10−16 J&lt;/li&gt;
+  &lt;li&gt;2.0 × 10−19 J&lt;/li&gt;
+  &lt;li&gt;6.4 × 10−14 J&lt;/li&gt;
+  &lt;li&gt;None of these&lt;/li&gt;
+  &lt;li&gt;6.63 × 10−34 J&lt;/li&gt;
+  &lt;li&gt;6.4 × 10−10 J&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+λ = 1.00 × 10−3 nm&lt;br /&gt;
+Ephoton = ?  &lt;/p&gt;
+
+&lt;p&gt;Ephoton = h ν = hc / λ&lt;br /&gt;
+= (6.626 × 10−34 J · s)(3.0 × 108 m/s) / (1.00 × 10−3 nm)(10−9 m/nm)&lt;br /&gt;
+= 2.0 × 10−13 J&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;An electron in a hydrogen atom moves from the n = 2 to n = 5 level. What is the wavelength of the photon that corresponds to this transition and is the photon emitted or absorbed during this process?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;276 nm; absorbed&lt;/li&gt;
+  &lt;li&gt;1875 nm; absorbed&lt;/li&gt;
+  &lt;li&gt;1875 nm; emitted&lt;/li&gt;
+  &lt;li&gt;434 nm; emitted&lt;/li&gt;
+  &lt;li&gt;434 nm; absorbed &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;276 nm; emitted&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following is correct with respect to the photoelectric effect?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A plot of the kinetic energy of the ejected electrons versus the frequency of the incident radiation has a slope that is equal to the value of the work function.&lt;/li&gt;
+  &lt;li&gt;The kinetic energy of the ejected electrons increases with the intensity of the incident radiation.&lt;/li&gt;
+  &lt;li&gt;A plot of the kinetic energy of the ejected electrons versus the frequency of the incident radiation is linear. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;All metals have the same work function.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+The photoelectric effect is summarized by&lt;br /&gt;
+KE=hν−φ, which fits the standard equation for a line :&lt;br /&gt;
+y=mx−c,&lt;br /&gt;
+where φ is the work function of the metal, and varies for different metals. The intensity of the incident radiation does not show here as it is just the number of photons hitting a surface in a given time.  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;You shine white light through a sample of neon atoms and then through a holographic diffraction grating. From this experiment, you would expect to observe  &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;mostly black space with thin lines of color.&lt;/li&gt;
+  &lt;li&gt;a continuous spectrum broken by thin black lines. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;a continuous spectrum.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Phosphorus has a higher ionization energy than silicon because&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;False; phosphorus has a lower ionization energy than silicon.&lt;/li&gt;
+  &lt;li&gt;the outer orbitals of phosphorus are located closer to the nucleus than the outer orbitals of silicon.&lt;/li&gt;
+  &lt;li&gt;the effective nuclear charge of phosphorus is less than that of silicon.&lt;/li&gt;
+  &lt;li&gt;the outer orbitals of phosphorus are located farther from the nucleus than the outer orbitals of silicon.&lt;/li&gt;
+  &lt;li&gt;the effective nuclear charge of silicon is less than that of phosphorus. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following will not have ionic bonds?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;NaCl&lt;/li&gt;
+  &lt;li&gt;methane (CH4) &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;calcium oxide&lt;/li&gt;
+  &lt;li&gt;KBr&lt;/li&gt;
+  &lt;li&gt;magnesium chloride&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Explanation:&lt;/strong&gt;&lt;br /&gt;
+All of the options except CH4 have ionic bonds, which are formed between metals and nonmetals. CH4 has only covalent (nonmetal-nonmetal) bonds.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Any neutral atom having an odd (i.e., uneven) atomic number must be&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;metallic.&lt;/li&gt;
+  &lt;li&gt;non-magnetic.&lt;/li&gt;
+  &lt;li&gt;paramagnetic. &lt;strong&gt;correct&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;inert.&lt;/li&gt;
+  &lt;li&gt;a transition element.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Wed, 24 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://mathsci.co/chemistry/unit-2-exam/</link>
+        <guid isPermaLink="true">http://mathsci.co/chemistry/unit-2-exam/</guid>
+        
+        
+        <category>chemistry</category>
+        
+      </item>
     
       <item>
         <title>Chemistry I - Unit 1 Exam</title>
@@ -229,7 +1275,7 @@ T = 8.0◦C + 273 = 281K&lt;br /&gt;
 P = ?  &lt;/p&gt;
 
 &lt;p&gt;P = nRT/V&lt;br /&gt;
-￼￼=￼(1.63 mol) 􏰀(0.0821 L·atm/mol·K) 􏰁(281 K) / (3.59 L)&lt;br /&gt;
+￼￼= (1.63 mol) 􏰀(0.0821 L·atm/mol·K) 􏰁(281 K) / (3.59 L)&lt;br /&gt;
   = 10.4747 atm  &lt;/p&gt;
 
 &lt;hr /&gt;

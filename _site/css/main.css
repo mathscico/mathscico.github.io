@@ -202,7 +202,8 @@ li {
   text-decoration: none; }
 
 .title li a {
-  color: #FFF; }
+  color: #000;
+  /* selected home link on top*/ }
 
 .title li a:link {
   color: #000;
