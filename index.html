@@ -8,15 +8,16 @@ title: Home
     {% for post in site.posts %}
       <li>
         <br>
-        <h3>
+        <h2>
           <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y %H:%m" }}</span>
+          <br>
+          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </h2>
+    		<span class="message">
+        		{{ post.desc }}
+        </span>
         <hr id="line">
-		<div class="content">
-		{{ post.excerpt }}
-        </div>
-		<br>
+    		<br>
       </li>
     {% endfor %}
   </ul>

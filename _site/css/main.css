@@ -1,3 +1,4 @@
+/** this is a nice blue hyperlink color 2a7ae2 */
 /**
  * Reset some basic elements
  */
@@ -64,10 +65,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #2a7ae2;
+  color: #E5782A;
   text-decoration: none; }
   a:visited {
-    color: #1756a9; }
+    color: #ad5515; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -151,6 +152,11 @@ hr {
   border: 0;
   border-top: 1px solid #bbb;
   border-bottom: 1px solid #fff; }
+
+.message {
+  color: #717171;
+  background-color: #f5f5f5;
+  font-size: 1rem; }
 
 /**
  * Header
@@ -264,7 +270,7 @@ li {
   font-weight: 500px; }
 
 .post-list li a {
-  color: #000; }
+  color: #E5782A; }
 
 #line {
   opacity: 0.1;
