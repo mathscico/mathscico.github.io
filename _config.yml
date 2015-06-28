@@ -3,8 +3,12 @@ title: mathsci.co
 motto: mathsci.co | Online Math and Science Problem Sets
 email: your-email@domain.com
 description: mathsci.co delivers and presents common math and science homework problems for you to prepare for your exams.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mathsci.co" # the base hostname & protocol for your site
+url: 'http://mathsci.co' # the base hostname & protocol for your site
+baseurl: '/'
+
+author:
+  name:           'MathSciCo'
+  url:            http://mathsci.co
 
 # Build settings
 markdown: kramdown

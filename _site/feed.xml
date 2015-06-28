@@ -3,11 +3,852 @@
   <channel>
     <title>mathsci.co</title>
     <description>mathsci.co delivers and presents common math and science homework problems for you to prepare for your exams.</description>
-    <link>http://mathsci.co/</link>
-    <atom:link href="http://mathsci.co/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jun 2015 21:27:59 -0500</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2015 21:27:59 -0500</lastBuildDate>
+    <link>http://mathsci.co//</link>
+    <atom:link href="http://mathsci.co//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 27 Jun 2015 22:20:02 -0500</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2015 22:20:02 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Chemistry I - U5LM3B</title>
+        <description>&lt;h2 id=&quot;u5lm3b-ws-limiting-reagent--percent-yield&quot;&gt;U5LM3B-WS Limiting Reagent &amp;amp; Percent Yield&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I. Methanol, CH3OH, is used as a fuel. Recall that combustion reactions produce carbon dioxide and water.&lt;/p&gt;
+
+&lt;p&gt;1) Write a balanced chemical equation for the combustion reaction.&lt;br /&gt;
+&lt;strong&gt;2CH3OH + 3O2 → 2CO2 + 4H2O&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;2) How many moles of carbon dioxide are produced in each of the following cases?&lt;br /&gt;
+Include calculations quantifying the number of moles left over for any excess reactants.&lt;/p&gt;
+
+&lt;p&gt;a) 2 mols of CH3OH react with 3 mols of O2.&lt;br /&gt;
+&lt;em&gt;2 mol CH3OH x 2 mol CO2 / 2 mol CH3OH =&lt;/em&gt; &lt;strong&gt;2 mol CO2 max&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;3molO2 x 2molCO2 / 3 mol O2 = 2 mol CO2 max&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;These reagents are in stoichiometric equivalence, so both reagents react completely.&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;0 moles of excess reagent&lt;/strong&gt;  &lt;/p&gt;
+
+&lt;p&gt;b) 2 mols of CH3OH react with 2 mols of O2&lt;br /&gt;
+&lt;em&gt;2 mol CH3OH x 2 mol CO2 / 2 mol CH3OH = 2 mol CO2 max&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;2 mol O2 x 2 mol CO2 / 3 mol O2 =&lt;/em&gt; &lt;strong&gt;1.33 mol CO2 max&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;2 mol O2 x 2 mol CH3OH / 3 mol O2 = 1.33 mol CH3OH used&lt;/em&gt;&lt;br /&gt;
+CH3OH excess reagent&lt;br /&gt;
+O2 limiting reagent&lt;br /&gt;
+2-1.33 = &lt;strong&gt;0.67 moles excess methanol&lt;/strong&gt;  &lt;/p&gt;
+
+&lt;p&gt;c) 3 mols of CH3OH react with 3 mols of O2&lt;br /&gt;
+&lt;em&gt;Perform hypothetical maximum calculations as above. Another way of determining the limiting reagent is to say…” 3 moles of methanol would require 4.5 moles of oxygen. We only have 3 moles of O2, so oxygen must be limiting.”&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;3 mol CH3OH x 3 mol O2 / 2 mol CH3OH = 4.5 mol O2 required&lt;/em&gt; … O2 is limiting&lt;br /&gt;
+All of the oxygen will react…&lt;br /&gt;
+&lt;em&gt;3molO2 x 2molCO2 / 3 mol O2 =&lt;/em&gt; &lt;strong&gt;2 mol CO2 produced&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;3 mol O2 x 2 mol CH3OH / 3 mol O2 = 2 mol CH3OH used;&lt;/em&gt; &lt;strong&gt;1 mole of excess methanol&lt;/strong&gt;  &lt;/p&gt;
+
+&lt;p&gt;d) 88 g of CH3OH react with 88 g of O2&lt;br /&gt;
+&lt;em&gt;These problems require you to convert grams using the molar mass before performing steps above. Note: methanol and oxygen have different molecular formulas but happen to have similar molar masses.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;88 g CH3OH x 1 mol CH3OH / 32 g CH3OH x 2 mol CO2 / 2 mol CH3OH = 2.75 mol CO2 max&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;CH3OH excess reagent&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;88 g O2 x 1 mol O2 / 32 g O2 x 2molCO2 / 3 mol O2 =&lt;/em&gt; &lt;strong&gt;1.83 mol CO2 max&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;O2 limiting reagent&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;1.83 mol CO2 x 2 mol CH3OH / 2 mol CO2 = 1.83 mol CH3OH used&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;88 g CH3OH x 1 mol CH3OH / 32 g CH3OH = 2.75 mol CH3OH available – 1.83 mol used =&lt;/em&gt; &lt;strong&gt;0.92 mol excess CH3OH&lt;/strong&gt;  &lt;/p&gt;
+
+&lt;p&gt;e) 15 g of CH3OH react with 12 g of O2&lt;br /&gt;
+&lt;em&gt;15g CH3OH x 1 mol / 32 g = 0.47 mol CH3OH available … x(3mol O2 / 2mol CH3OH) = 0.71 mol O2 required&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;12g O2 x 1 mol / 32 g = only 0.375 mol O2 available…. So O2 is limiting.&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;All of the oxygen will react… 0.375 mol O2 x 2 mol CO2&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;0.375 mol O2 x 2 mol CH3OH / 3 mol O2 =&lt;/em&gt; &lt;strong&gt;0.25 mol CO2 produced&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;= 0.25 mol CH3OH used; (0.47–0.25) =&lt;/em&gt; &lt;strong&gt;0.22 mole excess methanol&lt;/strong&gt;  &lt;/p&gt;
+
+&lt;p&gt;f) 25 g of CH3OH react with 35 g of O2&lt;br /&gt;
+&lt;em&gt;0.78 mol CH3OH available&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;1.17 mol O2 required&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;1.09 mol O2 available&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;0.73 mol CO2 produced&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;0.05 mole excess methanol&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;II. Propane is by-product of natural gas processing and petroleum refining. It is commonly used as a fuel for engines, oxy-gas torches, barbecues, portable stoves, and residential central heating.&lt;br /&gt;
+&lt;strong&gt;C3H8 +5O2 → 3CO2 +4H2O&lt;/strong&gt;&lt;br /&gt;
+Note: C3H8 and CO2 have different molecular formulas but happen to have similar molar masses.  &lt;/p&gt;
+
+&lt;p&gt;a) What mass of CO2 is produced when 6.5 g of propane is reacted with 14.2 g of O2?&lt;br /&gt;
+&lt;strong&gt;11.7 g CO2 produced (theoretical yield)&lt;/strong&gt;  &lt;/p&gt;
+
+&lt;p&gt;b) The actual yield of the reaction described above is 8.0 g of carbon dioxide. What is the percent yield?&lt;br /&gt;
+Percent yield is how much you got out of how much you could theoretically get… 8.0 g CO2 / 11.7 g CO2 x 100% = &lt;strong&gt;68 % yield&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;III. Nitrogen dioxide reacts with hydrogen to produce nitrogen and water. When 125g of nitrogen dioxide are allowed to react with excess hydrogen, the percent yield is 35%. How many grams of each product are actually formed during this process?&lt;br /&gt;
+&lt;strong&gt;2 NO2 + 4 H2 → N2 + 4 H2O&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;13.3 g N2 produced&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;34.3 g H2O produced&lt;/strong&gt;  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Fri, 26 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://mathsci.co//chemistry/U5LM3B/</link>
+        <guid isPermaLink="true">http://mathsci.co//chemistry/U5LM3B/</guid>
+        
+        
+        <category>chemistry</category>
+        
+      </item>
+    
+      <item>
+        <title>Chemistry I - LM 22</title>
+        <description>&lt;h2 id=&quot;learning-module-22--molecular-orbital-theory--guided-reading-activity&quot;&gt;LEARNING MODULE 22 – Molecular Orbital Theory – Guided Reading Activity&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What can molecular orbital calculations tell us about molecules?&lt;/p&gt;
+
+&lt;p&gt;MO calculations can predict geometries: giving the relative positions of atoms within the molecule such that you can determine bond lengths, bond strengths, and bond angles&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Mathematically the MO quantum mechanical calculations give:&lt;/p&gt;
+
+&lt;p&gt;A set of orbitals and energies in which the electrons of all the atoms within the molecule can be found.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;To calculate the lowest energy molecular orbitals:&lt;/p&gt;
+
+&lt;p&gt;The quantum mechanical calculations are repeated moving the atoms with various bond lengths, strengths and angles until the minimum energy is achieved. This set of lowest energy molecular orbitals is then the suggested set for the molecule. The electrons are then filled form lowest to highest energy. From there, the bond order and magnetism can be predicted.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Look at the potential energy diagram under the Molecular Geometry tab. The diagram is for diatomic molecular hydrogen. State here the labels for the x and y-axis.&lt;/p&gt;
+
+&lt;p&gt;The y-axis is the potential energy of the system. The minimum of the curve is the minimum potential energy of the system. The x-axis is the inter-nuclear distance between the two atoms. The x value that corresponds with the y-min is the optimum inter-nuclear distance and is considered to be the bond length.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Referring to the MO and Hydrogen Molecule tab. Sketch the MO diagram here. Label the atomic orbitals, the bonding MO and the anti-bonding MO. Explain why you see 4 arrows in this diagram and the significance of each arrow. State the origin of the bonding MO versus the anti-bonding MO.&lt;/p&gt;
+
+&lt;p&gt;MO1 is the bonding orbital.&lt;br /&gt;
+MO2 is and anti-bonding orbital.&lt;br /&gt;
+1 arrow is the 1s electron for one atom of H (labeled A in this diagram), the other is the electron originating from the other H (labeled B in this diagram). Then, the 2 arrows in the bonding MO originate from the atoms (A&amp;amp;B). The Bonding MOs arise mathematically from the constructive addition of the atomic wave functions while the Anti- Bonding MOs arise from the destructive addition of the atomic wave functions.  &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Bonding orbitals have &lt;strong&gt;&lt;em&gt;lower&lt;/em&gt;&lt;/strong&gt; energy than the atomic orbitals from which they are formed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Anti-Bonding orbitals have &lt;strong&gt;&lt;em&gt;higher&lt;/em&gt;&lt;/strong&gt; energy than the atomic orbitals from which they are formed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In the context of MO theory, a sigma bond is a &lt;strong&gt;&lt;em&gt;end to end or head to head&lt;/em&gt;&lt;/strong&gt; overlap of atomic orbitals showing where there is a high probability of finding electrons between atoms.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The anti-bonding orbitals are also &lt;strong&gt;&lt;em&gt;end to end or head to head&lt;/em&gt;&lt;/strong&gt; overlap, but in this case the overlap is destructive, so there is no probability of finding the electrons in the place directly between the atoms because the overlap results in a &lt;strong&gt;&lt;em&gt;node&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The bond order predicts the number of bonds that should be found in a molecule based on the calculated molecular orbitals and the total number of electrons in the molecule. Write the equation for calculating bond order.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;BO = 1⁄2(# Bonding electrons - # Anti-bonding electrons)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Using the MO energy diagrams given for common diatomics, calculate the bond order for B2. What does this value tell you about the stability of that particular diatomic.&lt;/p&gt;
+
+&lt;p&gt;In this case B has 5 electrons. So, if you fill in the 10 electrons that exist in this diatomic from lowest to highest on the MO Energy level diagram you end up with 6 bonding electrons and 4 anti-bonding electrons. So, the BO = 1⁄2(6-2) = 1. So you predict that this diatomic could form with a single bond.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Paramagnetic compounds (and atoms) are &lt;strong&gt;&lt;em&gt;attracted to&lt;/em&gt;&lt;/strong&gt;/from magnetic fields, while diamagnetic compounds (and atoms) are &lt;strong&gt;&lt;em&gt;repelled&lt;/em&gt;&lt;/strong&gt; to/&lt;strong&gt;&lt;em&gt;from&lt;/em&gt;&lt;/strong&gt; magnetic fields.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Label and define HOMO and LUMO on the following diagram.&lt;/p&gt;
+
+&lt;p&gt;The HOMO is the σ2p. The LUMO is the π2p*. HOMO stands for Highest Occupied Molecular Orbital and LUMO stands for Lowest Unoccupied Molecular Orbital.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Fri, 26 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://mathsci.co//chemistry/lm-22/</link>
+        <guid isPermaLink="true">http://mathsci.co//chemistry/lm-22/</guid>
+        
+        
+        <category>chemistry</category>
+        
+      </item>
+    
+      <item>
+        <title>Chemistry I - Chap 9 Review</title>
+        <description>&lt;h2 id=&quot;chapter-9-bonding-and-molecular-structure-orbital-hybridization-and-molecular-orbitals&quot;&gt;CHAPTER 9: Bonding and Molecular Structure: Orbital Hybridization and Molecular Orbitals&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;orbitals-and-theories-of-chemical-bonding&quot;&gt;9.1 Orbitals and Theories of Chemical Bonding&lt;/h3&gt;
+
+&lt;p&gt;Which one of the statements concerning valence bond (VB) and molecular orbital (MO) bond theories is correct?  &lt;/p&gt;
+
+&lt;p&gt;a) MO theory predicts that electrons are localized between pairs of atoms.&lt;br /&gt;
+b) In VB theory, bonding electrons are delocalized over the molecule.&lt;br /&gt;
+c) MO theory accurately describes bonding in O2 and NO, VB theory does not.&lt;br /&gt;
+d) VB theory can describe molecular bonding in excited states.&lt;br /&gt;
+e) MO theory is used to accurately predict the colors of compounds.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;valence-bond-theory&quot;&gt;9.2 Valence Bond Theory&lt;/h3&gt;
+
+&lt;p&gt;Which of the following statements is/are CORRECT?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The overlap between an s orbital and a p orbital is called a pi-bond.  &lt;/li&gt;
+  &lt;li&gt;The overlap of two s orbitals in H2 is called a sigma bond.  &lt;/li&gt;
+  &lt;li&gt;HF is formed from the overlap of a hydrogen 1s orbital with a fluorine 2s orbital.   &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;a) 1 only&lt;br /&gt;
+b) 2 only&lt;br /&gt;
+c) 3 only&lt;br /&gt;
+d) 2 and 3&lt;br /&gt;
+e) 1, 2, and 3  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: b&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following statements concerning hybrid orbitals is/are CORRECT?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The number of hybrid orbitals equals the number of atomic orbitals that are used to create the hybrids.  &lt;/li&gt;
+  &lt;li&gt;When atomic orbitals are hybridized, the s orbital and at least one p orbital are always hybridized.  &lt;/li&gt;
+  &lt;li&gt;To create octahedral structures, two d orbitals must be hybridized along with the s and all three p orbitals.  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;a) 1 only&lt;br /&gt;
+b) 2 only&lt;br /&gt;
+c) 3 only&lt;br /&gt;
+d) 2 and 3&lt;br /&gt;
+e) 1, 2, and 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: e&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;How many sigma (σ) bonds and pi (π) bonds are in ethene, C2H4?&lt;/p&gt;
+
+&lt;p&gt;a) four σ, one π&lt;br /&gt;
+b) four σ, two π&lt;br /&gt;
+c) five σ, one π&lt;br /&gt;
+d) five σ, two π&lt;br /&gt;
+e) six σ, zero π  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;How many sigma (σ) bonds and pi (π) bonds are in carbon monoxide?&lt;/p&gt;
+
+&lt;p&gt;a) three σ, zero π&lt;br /&gt;
+b) two σ, one π&lt;br /&gt;
+c) two σ, two π&lt;br /&gt;
+d) one σ, two π&lt;br /&gt;
+e) zero σ, three π&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;To form a molecule with a trigonal bipyramidal electron geometry, what set of pure atomic orbitals must be mixed?&lt;/p&gt;
+
+&lt;p&gt;a) one s and three p&lt;br /&gt;
+b) one s, three p, and one d&lt;br /&gt;
+c) one s, three p, and two d&lt;br /&gt;
+d) two s, six p, and two d&lt;br /&gt;
+e) two s, six p, and four d  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: b&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the maximum number of hybridized orbitals formed by a fluorine atom?&lt;/p&gt;
+
+&lt;p&gt;a) 1&lt;br /&gt;
+b) 2&lt;br /&gt;
+c) 3&lt;br /&gt;
+d) 4&lt;br /&gt;
+e) 6&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the hybridization of either carbon atom in acetylene, C2H2?&lt;/p&gt;
+
+&lt;p&gt;a) sp&lt;br /&gt;
+b) sp2&lt;br /&gt;
+c) sp3&lt;br /&gt;
+d) sp3d&lt;br /&gt;
+e) sp3d2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: a&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the hybridization of the nitrogen atom in NCl3?&lt;/p&gt;
+
+&lt;p&gt;a) sp&lt;br /&gt;
+b) sp2&lt;br /&gt;
+c) sp3&lt;br /&gt;
+d) sp3d&lt;br /&gt;
+e) sp3d2  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the hybridization of the xenon atom in XeF2?&lt;/p&gt;
+
+&lt;p&gt;a) sp&lt;br /&gt;
+b) sp2&lt;br /&gt;
+c) sp3&lt;br /&gt;
+d) sp3d&lt;br /&gt;
+e) sp3d2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the hybridization of the central nitrogen atom in nitrite ion, NO2-?&lt;/p&gt;
+
+&lt;p&gt;a) sp&lt;br /&gt;
+b) sp2&lt;br /&gt;
+c) sp3&lt;br /&gt;
+d) sp3d&lt;br /&gt;
+e) sp3d2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: b&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the hybridization of the chlorine atom in chlorite ion, ClO2-?&lt;/p&gt;
+
+&lt;p&gt;a) sp&lt;br /&gt;
+b) sp2&lt;br /&gt;
+c) sp3&lt;br /&gt;
+d) sp3d&lt;br /&gt;
+e) sp3d2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the hybridization of the central atom in a molecule with a square-planar molecular geometry?&lt;/p&gt;
+
+&lt;p&gt;a) sp&lt;br /&gt;
+b) sp2&lt;br /&gt;
+c) sp3&lt;br /&gt;
+d) sp3d&lt;br /&gt;
+e) sp3d2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: e&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the hybridization of each carbon atom in benzene, C6H6? Benzene contains a six-member carbon ring.&lt;/p&gt;
+
+&lt;p&gt;a) sp&lt;br /&gt;
+b) sp2&lt;br /&gt;
+c) sp3&lt;br /&gt;
+d) sp3d&lt;br /&gt;
+e) sp3d2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: b&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For which of the following molecules does the central carbon atom have sp2 hybridization?&lt;/p&gt;
+
+&lt;p&gt;a) Cl2CO&lt;br /&gt;
+b) CHCl3&lt;br /&gt;
+c) CS2&lt;br /&gt;
+d) CH2Cl2&lt;br /&gt;
+e) HCN&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: a&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For which of the following molecules and ions does the central nitrogen atom have sp3 hybridization?&lt;/p&gt;
+
+&lt;p&gt;a) NO2-&lt;br /&gt;
+b) HNO3&lt;br /&gt;
+c) NOBr&lt;br /&gt;
+d) NBr3&lt;br /&gt;
+e) HNO2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;For which of the following molecules and ions does the central atom have sp hybridization: NO2+, O3, and I3-?&lt;/p&gt;
+
+&lt;p&gt;a) NO2+ only&lt;br /&gt;
+b) O3 only&lt;br /&gt;
+c) I3- only&lt;br /&gt;
+d) O3 and I3-&lt;br /&gt;
+e) I3- and NO2+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: a&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the molecular geometry around a central atom that is sp3 hybridized and has two lone pairs of electrons?&lt;/p&gt;
+
+&lt;p&gt;a) bent&lt;br /&gt;
+b) linear&lt;br /&gt;
+c) trigonal-planar&lt;br /&gt;
+d) trigonal-pyramidal&lt;br /&gt;
+e) trigonal-bipyramidal  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: a&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the molecular geometry around a central atom that is sp3d2 hybridized and has one lone pair of electrons?&lt;/p&gt;
+
+&lt;p&gt;a) tetrahedral&lt;br /&gt;
+b) trigonal-bipyramidal&lt;br /&gt;
+c) square-planar&lt;br /&gt;
+d) square-pyramidal&lt;br /&gt;
+e) see-saw  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the molecular geometry around a central atom that is sp2 hybridized, has three sigma bonds, and one pi bond?&lt;/p&gt;
+
+&lt;p&gt;a) trigonal-planar&lt;br /&gt;
+b) trigonal-pyramidal&lt;br /&gt;
+c) bent&lt;br /&gt;
+d) T-shaped&lt;br /&gt;
+e) tetrahedral  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: a&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the molecular geometry around a central atom that is sp3d hybridized and has one lone pair of eletrons?&lt;/p&gt;
+
+&lt;p&gt;a) trigonal bipyramidal&lt;br /&gt;
+b) trigonal-pyramidal&lt;br /&gt;
+c) see-saw&lt;br /&gt;
+d) tetrahedral&lt;br /&gt;
+e) square-planar  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What is the hybridization of a central atom that has four sigma bonds and has no lone pairs of electrons?&lt;/p&gt;
+
+&lt;p&gt;a) sp&lt;br /&gt;
+b) sp2&lt;br /&gt;
+c) sp3&lt;br /&gt;
+d) sp3d&lt;br /&gt;
+e) sp3d2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Upon heating, CaCO3 decomposes to CaO and CO2. What change in the hybridization of carbon occurs in this reaction?&lt;/p&gt;
+
+&lt;p&gt;a) sp to sp2&lt;br /&gt;
+b) sp2 to sp3&lt;br /&gt;
+c) sp3 to sp&lt;br /&gt;
+d) sp2 to sp&lt;br /&gt;
+e) no change&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;One product of the combustion of ethane, C2H6, is carbon dioxide. What change in hybridization of the carbon occurs in this reaction?&lt;/p&gt;
+
+&lt;p&gt;a) sp3 to sp2&lt;br /&gt;
+b) sp3 to sp&lt;br /&gt;
+c) sp2 to sp3&lt;br /&gt;
+d) sp2 to sp3d2&lt;br /&gt;
+e) sp2 to sp&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: b&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Nitric acid, HNO3, dissociates in water to form nitrate ions and hydronium ions. What change in hybridization of the nitrogen atom occurs in this dissociation?&lt;/p&gt;
+
+&lt;p&gt;a) sp2 to sp3&lt;br /&gt;
+b) sp2 to sp&lt;br /&gt;
+c) sp3 to sp&lt;br /&gt;
+d) sp to sp3&lt;br /&gt;
+e) no change  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: e&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following hybridized atoms is not possible?&lt;/p&gt;
+
+&lt;p&gt;a) an sp hybridized carbon atom&lt;br /&gt;
+b) an sp2 hybridized sulfur atom&lt;br /&gt;
+c) an sp3 hybridized phosphorus atom&lt;br /&gt;
+d) an sp3d hybridized oxygen atom&lt;br /&gt;
+e) an sp3d2 hybridized xenon atom  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Which of the following characteristics apply to SO2?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;polar bonds&lt;/li&gt;
+  &lt;li&gt;nonpolar molecule&lt;/li&gt;
+  &lt;li&gt;linear molecular shape&lt;/li&gt;
+  &lt;li&gt;sp hybridized&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;a) 1 only&lt;br /&gt;
+b) 1 and 2&lt;br /&gt;
+c) 3 and 4&lt;br /&gt;
+d) 1, 2, and 3&lt;br /&gt;
+e) 1, 2, 3, and 4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: a&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Dichloromethane, CH2Cl2, is a common organic solvent. Which of the following statements concerning dichloromethane is/are CORRECT?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;CH2Cl2 has two isomers. For one isomer of CH2Cl2, the chlorine atoms are adjacent to each other and the molecule is polar. &lt;/li&gt;
+  &lt;li&gt;CH2Cl2 has two isomers. For one isomer of CH2Cl2, the chlorine atoms are on opposites sides of the carbon atom and the molecule is nonpolar. &lt;/li&gt;
+  &lt;li&gt;The hybridization of the central carbon atom is sp3.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;a) 1 only&lt;br /&gt;
+b) 2 only&lt;br /&gt;
+c) 3 only&lt;br /&gt;
+d) 1 and 2&lt;br /&gt;
+e) 1, 2, and 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;molecular-orbital-theory&quot;&gt;9.3 Molecular Orbital Theory&lt;/h3&gt;
+
+&lt;p&gt;All of the following statements concerning molecular orbital (MO) theory are correct EXCEPT&lt;/p&gt;
+
+&lt;p&gt;a) the Pauli exclusion principle is obeyed.&lt;br /&gt;
+b) Hund’s rule is obeyed.&lt;br /&gt;
+c) electrons are assigned to orbitals of successively higher energy.&lt;br /&gt;
+d) a bonding molecular orbital is lower in energy than its parent atomic orbitals.&lt;br /&gt;
+e) the combination of two atomic orbitals creates only one molecular orbital.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: e&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Atomic orbitals combine most effectively to form molecular orbitals when&lt;/p&gt;
+
+&lt;p&gt;a) electrons in the orbitals have no spins.&lt;br /&gt;
+b) electrons in the orbitals have the same spin.&lt;br /&gt;
+c) the atomic orbitals are hybridized.&lt;br /&gt;
+d) the atomic orbitals have similar energies.&lt;br /&gt;
+e) p-orbitals are half-filled.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A molecular orbital that decreases the electron density between two nuclei is said to be &lt;strong&gt;__&lt;/strong&gt;__.&lt;/p&gt;
+
+&lt;p&gt;a) hybridized&lt;br /&gt;
+b) bonding&lt;br /&gt;
+c) antibonding&lt;br /&gt;
+d) pi-bonding&lt;br /&gt;
+e) nonpolar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The following molecular orbital diagram may be used for problems 35-48. For oxygen and fluorine, the σ2p orbital should be lower in energy than the π2p. However, the diagram will still yield correct bond order and magnetic behavior for these molecules.&lt;/p&gt;
+
+&lt;p&gt;↑ Energy&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;	________	σ*2p
+	
+________		________	π*2p
+	
+	________	σ2p
+	
+________		________	π2p
+	
+	________	σ*2s
+	
+	________	σ2s
+	
+	________	σ*1s
+	
+	________	σ1s
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;35: According to molecular orbital theory, which of the following species is the most likely to exist?&lt;/p&gt;
+
+&lt;p&gt;a) H22-&lt;br /&gt;
+b) He2&lt;br /&gt;
+c) Li22-&lt;br /&gt;
+d) Be2&lt;br /&gt;
+e) Be22-  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: e&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;36:	According to molecular orbital theory, which of the following species is least likely to exist?&lt;/p&gt;
+
+&lt;p&gt;a) Be2&lt;br /&gt;
+b) F22+&lt;br /&gt;
+c) C22-&lt;br /&gt;
+d) Li2&lt;br /&gt;
+e) B22-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: a&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;37:	According to molecular orbital theory, which of the following species has the highest bond order?&lt;/p&gt;
+
+&lt;p&gt;a) F2&lt;br /&gt;
+b) F22+&lt;br /&gt;
+c) C22-&lt;br /&gt;
+d) Li2&lt;br /&gt;
+e) B22+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;38:	According to molecular orbital theory, what is the bond order of oxygen, O2?&lt;/p&gt;
+
+&lt;p&gt;a) 1&lt;br /&gt;
+b) 3/2&lt;br /&gt;
+c) 2&lt;br /&gt;
+d) 5/2&lt;br /&gt;
+e) 3  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;39:	According to molecular orbital theory, what is the bond order of N2-?&lt;/p&gt;
+
+&lt;p&gt;a) 1&lt;br /&gt;
+b) 3/2&lt;br /&gt;
+c) 2&lt;br /&gt;
+d) 5/2&lt;br /&gt;
+e) 3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;40:	According to molecular orbital theory, which of the following lists ranks the oxygen species in terms of increasing bond order? &lt;/p&gt;
+
+&lt;p&gt;a) O22+ &amp;lt; O22- &amp;lt; O2&lt;br /&gt;
+b) O22- &amp;lt; O2 &amp;lt; O22+&lt;br /&gt;
+c) O2 &amp;lt; O22+ &amp;lt; O22-&lt;br /&gt;
+d) O2 &amp;lt; O22- &amp;lt; O22+&lt;br /&gt;
+e) O22+ &amp;lt; O2 &amp;lt; O22-  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: b&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;41:	Consider the molecules B2, C2, N2 and O2. Which two molecules have the same bond order?&lt;/p&gt;
+
+&lt;p&gt;a) B2 and C2&lt;br /&gt;
+b) B2 and O2&lt;br /&gt;
+c) C2 and N2&lt;br /&gt;
+d) C2 and O2&lt;br /&gt;
+e) N2 and O2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;42:	Use molecular orbital theory to predict which species is paramagnetic.&lt;/p&gt;
+
+&lt;p&gt;a) N2&lt;br /&gt;
+b) O2&lt;br /&gt;
+c) F2&lt;br /&gt;
+d) Li2&lt;br /&gt;
+e) H2&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: b&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;43:	Use molecular orbital theory to predict which ion is paramagnetic.&lt;/p&gt;
+
+&lt;p&gt;a) F22+&lt;br /&gt;
+b) O22-&lt;br /&gt;
+c) O22+&lt;br /&gt;
+d) N22+&lt;br /&gt;
+e) B22-&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: a&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;44:	What is the molecular orbital configuration of F2?&lt;/p&gt;
+
+&lt;p&gt;a) [core electrons] (σ2s)2 (σ&lt;em&gt;2s)2 (π2p)4 (σ2p)2 (σ&lt;/em&gt;2p)2&lt;br /&gt;
+b) [core electrons] (σ2s)2 (σ&lt;em&gt;2s)2 (π2p)2 (σ2p)2 (π&lt;/em&gt;2p)2&lt;br /&gt;
+c) [core electrons] (σ2s)2 (σ&lt;em&gt;2s)2 (π2p)4 (π&lt;/em&gt;2p)4&lt;br /&gt;
+d) [core electrons] (σ2s)2 (σ&lt;em&gt;2s)2 (π2p)4 (σ2p)2 (π&lt;/em&gt;2p)6&lt;br /&gt;
+e) [core electrons] (σ2s)2 (σ&lt;em&gt;2s)2 (π2p)4 (σ2p)2 (π&lt;/em&gt;2p)4  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: e&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;45:	What is the molecular orbital configuration of N22+?&lt;/p&gt;
+
+&lt;p&gt;a) [core electrons] (σ2s)2 (σ&lt;em&gt;2s)2 (π2p)4 (σ2p)2 (π&lt;/em&gt;2p)2&lt;br /&gt;
+b) [core electrons] (σ2s)2 (σ&lt;em&gt;2s)2 (π2p)4&lt;br /&gt;
+c) [core electrons] (σ2s)2 (σ&lt;/em&gt;2s)2 (π2p)2 (σ2p)2&lt;br /&gt;
+d) [core electrons] (σ2s)4 (σ&lt;em&gt;2s)4&lt;br /&gt;
+e) [core electrons] (σ2s)2 (σ&lt;/em&gt;2s)2 (π2p)4 (σ2p)2(π*2p)4  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: b&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;46:	Assume that the molecular orbital energy diagram for a homonuclear diatomic molecule applies to a heteronuclear diatomic molecule. What is the molecular orbital configuration of NO?&lt;/p&gt;
+
+&lt;p&gt;a) [core electrons] (σ2s)2 (σ&lt;em&gt;2s)2 (π2p)4 (σ2p)2 (π&lt;/em&gt;2p)1&lt;br /&gt;
+b) [core electrons] (σ2s)2 (σ&lt;em&gt;2s)2 (π2p)2 (σ2p)2 (π&lt;/em&gt;2p)2&lt;br /&gt;
+c) [core electrons] (σ2s)2 (σ&lt;em&gt;2s)2 (π2p)2 (σ2p)3&lt;br /&gt;
+d) [core electrons] (σ2s)2 (σ&lt;/em&gt;2s)2 (π2p)4 (σ2p)1&lt;br /&gt;
+e) [core electrons] (σ2s)2 (σ*2s)2 (π2p)2  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: a&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;47:	Assuming that the molecular orbital energy diagram for a homonuclear diatomic molecule applies to a heteronuclear diatomic molecule, determine which of the following species has the highest bond order.&lt;/p&gt;
+
+&lt;p&gt;a) NO-&lt;br /&gt;
+b) OF-&lt;br /&gt;
+c) CN-&lt;br /&gt;
+d) O2&lt;br /&gt;
+e) NO&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;48:	Assuming that the molecular orbital energy diagram for a homonuclear diatomic molecule applies to a heteronuclear diatomic molecule, determine which of the following species is paramagnetic.&lt;/p&gt;
+
+&lt;p&gt;a) NO+&lt;br /&gt;
+b) CO&lt;br /&gt;
+c) CN-&lt;br /&gt;
+d) OF-&lt;br /&gt;
+e) NO&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: e&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In the NO2- ion, each atom can be viewed as sp2 hybridized. Thus, each atom has one remaining unhybridized p orbital. How many π2p molecular orbitals (including both bonding and antibonding orbitals) are formed using the unhybridized p orbitals?&lt;/p&gt;
+
+&lt;p&gt;a) 1&lt;br /&gt;
+b) 3&lt;br /&gt;
+c) 4&lt;br /&gt;
+d) 6&lt;br /&gt;
+e) 12  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: b&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Benzene, C6H6, consists of a six member ring of sp2 hybridized carbon atoms. Each carbon atom has one unhybridized p orbital. How many π2p bonding, antibonding, and nonbonding molecular orbitals exist for benzene?&lt;/p&gt;
+
+&lt;p&gt;a) Three π2p molecular orbitals exist; two bonding and one antibonding.&lt;br /&gt;
+b) Three π2p molecular orbitals exist; one bonding, one antibonding, and one nonbonding.&lt;br /&gt;
+c) Six π2p molecular orbitals exist; three bonding and three antibonding.&lt;br /&gt;
+d) Six π2p molecular orbitals exist; two bonding, two nonbonding, and two antibonding.&lt;br /&gt;
+e) Twelve π2p molecular orbitals exist; six bonding and six antibonding.  &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: c&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;short-answer-questions&quot;&gt;Short Answer Questions&lt;/h3&gt;
+
+&lt;p&gt;Which theory, valence bond or molecule orbital, correctly predicts the existence of paramagnetic molecules?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: molecular orbital theory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In valence bond theory, each sigma bond in CH4 is formed from the overlap of a hydrogen atom’s 1s orbital with a &lt;em&gt;__&lt;/em&gt; hybridized orbital on the carbon atom.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: sp3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In molecular orbital theory, the bond order is defined as 1/2(the number of electrons in &lt;strong&gt;__&lt;/strong&gt;__ orbitals minus the number of electrons in antibonding orbitals).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: bonding&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Triiodide ion, I3-, has a trigonal-bipyramidal electron-pair geometry and a linear molecular geometry. The hybridization of the central iodine atom is &lt;strong&gt;__&lt;/strong&gt;__.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: sp3d&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The hybridization of the xenon atom in XeOF4 is &lt;strong&gt;__&lt;/strong&gt;__.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Answer: sp3d2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+</description>
+        <pubDate>Fri, 26 Jun 2015 00:00:00 -0500</pubDate>
+        <link>http://mathsci.co//chemistry/chap-9-review/</link>
+        <guid isPermaLink="true">http://mathsci.co//chemistry/chap-9-review/</guid>
+        
+        
+        <category>chemistry</category>
+        
+      </item>
     
       <item>
         <title>Chemistry I - Unit 4 Exam</title>
@@ -333,8 +1174,8 @@ The standard Gibbs free energy of formation of sodium chloride is negative so th
 
 </description>
         <pubDate>Thu, 25 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://mathsci.co/chemistry/unit-4-exam/</link>
-        <guid isPermaLink="true">http://mathsci.co/chemistry/unit-4-exam/</guid>
+        <link>http://mathsci.co//chemistry/unit-4-exam/</link>
+        <guid isPermaLink="true">http://mathsci.co//chemistry/unit-4-exam/</guid>
         
         
         <category>chemistry</category>
@@ -630,8 +1471,8 @@ The compound with the highest vapor pressure will be the one that most readily e
 
 </description>
         <pubDate>Thu, 25 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://mathsci.co/chemistry/unit-3-exam/</link>
-        <guid isPermaLink="true">http://mathsci.co/chemistry/unit-3-exam/</guid>
+        <link>http://mathsci.co//chemistry/unit-3-exam/</link>
+        <guid isPermaLink="true">http://mathsci.co//chemistry/unit-3-exam/</guid>
         
         
         <category>chemistry</category>
@@ -1047,8 +1888,8 @@ All of the options except CH4 have ionic bonds, which are formed between metals 
 
 </description>
         <pubDate>Wed, 24 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://mathsci.co/chemistry/unit-2-exam/</link>
-        <guid isPermaLink="true">http://mathsci.co/chemistry/unit-2-exam/</guid>
+        <link>http://mathsci.co//chemistry/unit-2-exam/</link>
+        <guid isPermaLink="true">http://mathsci.co//chemistry/unit-2-exam/</guid>
         
         
         <category>chemistry</category>
@@ -1448,8 +2289,8 @@ PC =PT −(PA+PB)&lt;br /&gt;
 
 </description>
         <pubDate>Tue, 23 Jun 2015 00:00:00 -0500</pubDate>
-        <link>http://mathsci.co/chemistry/unit-1-exam/</link>
-        <guid isPermaLink="true">http://mathsci.co/chemistry/unit-1-exam/</guid>
+        <link>http://mathsci.co//chemistry/unit-1-exam/</link>
+        <guid isPermaLink="true">http://mathsci.co//chemistry/unit-1-exam/</guid>
         
         
         <category>chemistry</category>
